@@ -15,7 +15,7 @@ Repository of instructional coding resources
 | [Sololearn](https://www.sololearn.com/Courses/) | Python, C++, Java, JavaScript, C#, C, SQL, HTML, PHP, CSS, Ruby, jQuery, Swift  |
 |[Codepath](https://codepath.org/classes)| Java, Swift |
 |[Grasshopper](https://learn.grasshopper.app/)| JavaScript |
-|[<inclusion>](https://courses.incl.us/learn-html-css/)| HTML, CSS |
+|[Inclusion](https://courses.incl.us/learn-html-css/)| HTML, CSS |
 |[DataCamp](https://www.datacamp.com/)| Python, R, SQL |
 |[Py](https://www.getpy.com/mobile)| Python, SQL, HTML, Swift, JavaScript |
 |[Youtube](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)| C++, Java |
