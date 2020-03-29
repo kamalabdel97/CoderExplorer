@@ -2,6 +2,7 @@
 Repository of instructional coding resources
 ---
 ---
+# Websites
 | Resource                                          |  Languages |
 |---------------------------------------------------|------------|
 | [IBM Cognitive Class](https://cognitiveclass.ai/) | Python, R  |
@@ -20,3 +21,16 @@ Repository of instructional coding resources
 |[Py](https://www.getpy.com/mobile)| Python, SQL, HTML, Swift, JavaScript |
 |[Youtube](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)| C++, Java |
 |[Mode](https://mode.com/resources/)| Python, SQL |
+
+# YouTube
+
+| Resource                                          |  Languages |
+|---------------------------------------------------|------------|
+|[Dave Langer](https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ)| R |
+|[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)| Python, JavaScript, SQL, Java, C++, HTML, CSS, React, Node.js |
+|[Data Science Dojo](https://www.youtube.com/user/DataScienceDojo)| R, Python |
+
+
+
+
+
